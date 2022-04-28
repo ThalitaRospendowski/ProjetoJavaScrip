@@ -1,2 +1,2 @@
-# ProjetoJavaScrip
+# ProjetoJavaScript
 Projeto DIO JavaScript
